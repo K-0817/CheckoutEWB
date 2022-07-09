@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CheckoutEWB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CheckoutEWB_jar</output-path>
+    <root id="archive" name="CheckoutEWB.jar">
+      <element id="module-output" name="CheckoutEWB" />
+    </root>
+  </artifact>
+</component>
