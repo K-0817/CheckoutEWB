@@ -73,25 +73,4 @@ In order to import data into the program, make a file named "data.csv" and place
 #### Paid By Check:
 - Select this box if the guest paid for their auction items with a check.
 #### Amount Paid:
-- The total amount of money that the guest paid, before change.
-#### Change Given:
-- How much change was given back to the guest after payment.
-#### Update Guest Profile:
-- Click this button to save the guest's data. **IMPORTANT:** In order for the data to be saved when switching between guests, you **MUST** click this button after changing any fields for the current guest.
-
-
-### Item Information
-![alt text](https://i.imgur.com/6tOSIgF.png)
-
-#### Item Number:
-- The item number is the unique identifier assigned to each item in the auction. An item number must be unique, and the program will not allow you to assign the same number to two items. Generally, this will be set in stone before the auction begins, and this value should not be changed during the auction itself, unless without specific permission.
-#### Item Name:
-- The name of the item, which will display to the item owner and next to the item number in the drop-down selector.
-#### Price:
-- The price the guest will pay for the item, inputted as a floating point value (eg: $10.00 or $15.50).
-#### Owner:
-- The guest ID number of who won this item in the auction. After this value is set and the "Update Item Profile" button is clicked, the item will appear in the guest's list of owned items.
-#### Notes:
-- Any notes about the item. These are not visible to each guest, and is a good spot for general notes and comments.
-#### Update Item Profile:
-- Click this button to save the item's data. **IMPORTANT:** In order for the data to be saved when switching between items, you **MUST** click this button after changing any fields for the current item.
+- The total amount of money that the guest paid, be
