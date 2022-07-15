@@ -18,7 +18,6 @@ import javafx.stage.StageStyle;
 import java.net.URI;
 import java.util.*;
 
-
 public class Controller {
 
     public static ObservableList<Guest> guests = FXCollections.observableArrayList();
